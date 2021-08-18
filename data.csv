@@ -1,0 +1,463 @@
+﻿Estado,Etnia/raça,Formação,Gênero,LGBTQIA+,Ocupação,Setor,Faixa Salarial,Tamanho da Empresa,Tipo contratação
+Alagoas,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",101 - 500,Outros
+Alagoas,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,PJ
+Amazonas,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Sim,Analista,Comério / Varejo,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Amazonas,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Analista,Comério / Varejo,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+Amazonas,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",21 - 50,CLT
+Bahia,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Bancos,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Bahia,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Coordenador,Tecnologia,"R$7.000,01 a R$10.000,00",501 - 1000,CLT
+Bahia,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,PJ
+Bahia,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Especialista,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+Bahia,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",501 - 1000,CLT
+Bahia,Pessoa preta ou negra,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Ceará,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Sim,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",51 - 100,CLT
+Ceará,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"R$3.000,01 a R$4.000,00",501 - 1000,CLT
+Ceará,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Comério / Varejo,"R$1.045,00 a R$2.000,00",101 - 500,CLT
+Ceará,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Outros,"R$3.000,01 a R$4.000,00",1 - 20,CLT
+Ceará,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Telecomunicações,"R$2.000,01 a R$3.000,00",Acima de 1001,CLT
+Ceará,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Gerente,Transporte,"Acima de R$10.000,01",101 - 500,CLT
+Ceará,Pessoa parda,Pós Graduação cursando/completo,Mulher,Sim,Analista,Outros,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Ceará,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Analista,Transporte,"R$2.000,01 a R$3.000,00",1 - 20,CLT
+Ceará,Pessoa preta ou negra,Ensino médio Completo,Homem,Não Respondeu,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",51 - 100,Outros
+Distrito Federal,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Sim,Coordenador,Outros,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Distrito Federal,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Sim,Analista,Serviços Diversos,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+Distrito Federal,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Sim,Analista,Outros,"R$4.000,01 a R$5.000,00",51 - 100,Cooperado
+Distrito Federal,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+Distrito Federal,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+Distrito Federal,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Serviços Diversos,"Acima de R$10.000,01",Acima de 1001,CLT
+Distrito Federal,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Distrito Federal,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",Acima de 1001,CLT
+Distrito Federal,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Outros,"Acima de R$10.000,01",Acima de 1001,CLT
+Distrito Federal,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+Distrito Federal,Pessoa parda,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Comério / Varejo,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Distrito Federal,Pessoa parda,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Seguros,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Distrito Federal,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Distrito Federal,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"R$7.000,01 a R$10.000,00",501 - 1000,CLT
+Distrito Federal,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Distrito Federal,Pessoa parda,Pós Graduação cursando/completo,Mulher,Sim,Analista,Bancos,"R$7.000,01 a R$10.000,00",501 - 1000,CLT
+Distrito Federal,Pessoa parda,Pós Graduação cursando/completo,Mulher,Sim,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",21 - 50,CLT
+Distrito Federal,Pessoa preta ou negra,Pós Graduação cursando/completo,Homem,Não,Especialista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+Espirito Santo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Espirito Santo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Bancos,"R$4.000,01 a R$5.000,00",501 - 1000,CLT
+Espirito Santo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Outros,"R$2.000,01 a R$3.000,00",1 - 20,CLT
+Goiás,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Telecomunicações,"R$2.000,01 a R$3.000,00",Acima de 1001,CLT
+Goiás,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Goiás,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",21 - 50,CLT
+Goiás,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Outros,"Acima de R$10.000,01",Acima de 1001,PJ
+Goiás,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",501 - 1000,CLT
+Goiás,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",51 - 100,PJ
+Goiás,Pessoa preta ou negra,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Outros,"R$7.000,01 a R$10.000,00",1 - 20,CLT
+Goiás,Pessoa preta ou negra,Pós Graduação cursando/completo,Mulher,Sim,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",21 - 50,CLT
+Maranhão,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Serviços Diversos,"R$1.045,00 a R$2.000,00",21 - 50,CLT
+Maranhão,Pessoa parda,Pós Graduação cursando/completo,Mulher,Sim,Analista,Bancos,"R$4.000,01 a R$5.000,00",501 - 1000,CLT
+Mato Grosso,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Mato Grosso,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Analista,Outros,"R$3.000,01 a R$4.000,00",1 - 20,PJ
+Minas Gerais,Não Respondeu,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Tecnologia,"R$1.045,00 a R$2.000,00",21 - 50,Não Respondeu
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Outros,"R$2.000,01 a R$3.000,00",21 - 50,CLT
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Serviço,"R$2.000,01 a R$3.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Serviço,"R$5.000,01 a R$7.000,00",101 - 500,Cooperado
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",21 - 50,CLT
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Sim,Analista,Comério / Varejo,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Outros,"R$4.000,01 a R$5.000,00",51 - 100,CLT
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",51 - 100,CLT
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Sim,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Sim,Jovem Aprendiz / Estagiário,Bancos,"R$1.045,00 a R$2.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Sim,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Transporte,"Acima de R$10.000,01",Acima de 1001,CLT
+Minas Gerais,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Analista,Automotivo,"R$5.000,01 a R$7.000,00",21 - 50,CLT
+Minas Gerais,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Analista,Outros,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",501 - 1000,CLT
+Minas Gerais,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",51 - 100,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Automotivo,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Educação,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Educação,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Outros,"R$2.000,01 a R$3.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Serviço,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$1.045,00 a R$2.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Coordenador,Tecnologia,"Acima de R$10.000,01",Acima de 1001,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Outros,"Acima de R$10.000,01",Acima de 1001,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",101 - 500,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Supervisor,Outros,"Acima de R$10.000,01",501 - 1000,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Outros,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Mulher,Sim,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",51 - 100,CLT
+Minas Gerais,Pessoa branca,Pós Graduação cursando/completo,Mulher,Sim,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Construção e Engenharia,"R$2.000,01 a R$3.000,00",21 - 50,CLT
+Minas Gerais,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+Minas Gerais,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Consultor,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,Cooperado
+Minas Gerais,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Outros,"Acima de R$10.000,01",1 - 20,PJ
+Minas Gerais,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Prefiro não responder,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",51 - 100,CLT
+Minas Gerais,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",101 - 500,CLT
+Minas Gerais,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Bancos,"R$4.000,01 a R$5.000,00",501 - 1000,CLT
+Minas Gerais,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Tecnologia,"R$1.045,00 a R$2.000,00",Acima de 1001,Outros
+Minas Gerais,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Jovem Aprendiz / Estagiário,Outros,"R$1.045,00 a R$2.000,00",1 - 20,Outros
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Outros,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Serviço,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",501 - 1000,CLT
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Especialista,Construção e Engenharia,"Acima de R$10.000,01",Acima de 1001,CLT
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Analista,Comério / Varejo,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Analista,Outros,"R$5.000,01 a R$7.000,00",1 - 20,CLT
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Consultor,Outros,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Consultor,Tecnologia,"Acima de R$10.000,01",21 - 50,PJ
+Minas Gerais,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Eng. Dados,Telecomunicações,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",51 - 100,CLT
+Minas Gerais,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",1 - 20,PJ
+Minas Gerais,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Sim,Especialista,Tecnologia,"Acima de R$10.000,01",101 - 500,CLT
+Minas Gerais,Pessoa preta ou negra,Pós Graduação cursando/completo,Homem,Não,Analista,Holdings,"R$5.000,01 a R$7.000,00",501 - 1000,CLT
+Minas Gerais,Pessoa preta ou negra,Pós Graduação cursando/completo,Mulher,Não,Analista,Outros,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Minas Gerais,Pessoa preta ou negra,Pós Graduação cursando/completo,Mulher,Não,Analista,Serviço,"Acima de R$10.000,01",101 - 500,PJ
+Não Respondeu,Não Respondeu,Não Respondeu,Não Respondeu,Não Respondeu,Não Respondeu,Não Respondeu,Não Respondeu,Não Respondeu,Não Respondeu
+Não Respondeu,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Bancos,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Não Respondeu,Pessoa asiática,Pós Graduação cursando/completo,Mulher,Não,Analista,Outros,"R$5.000,01 a R$7.000,00",501 - 1000,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Comério / Varejo,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Seguros,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",51 - 100,PJ
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Auxiliar/Assistente,Bancos,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Comério / Varejo,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Educação,"R$2.000,01 a R$3.000,00",Acima de 1001,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",51 - 100,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Educação,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Não Respondeu,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Outros,"R$1.045,00 a R$2.000,00",Acima de 1001,Outros
+Não Respondeu,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Comério / Varejo,"R$3.000,01 a R$4.000,00",21 - 50,CLT
+Não Respondeu,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"Acima de R$10.000,01",101 - 500,CLT
+Não Respondeu,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,PJ
+Não Respondeu,Pessoa branca,Pós Graduação cursando/completo,Mulher,Sim,Analista,Tecnologia,"Acima de R$10.000,01",101 - 500,PJ
+Não Respondeu,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Comério / Varejo,"Acima de R$10.000,01",Acima de 1001,CLT
+Não Respondeu,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Outros,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Não Respondeu,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+Não Respondeu,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Auxiliar/Assistente,Comério / Varejo,"R$2.000,01 a R$3.000,00",101 - 500,CLT
+Não Respondeu,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura cursando,Não Binário,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Não Respondeu,Pessoa preta ou negra,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Não Respondeu,Prefiro não responder,Bacharelado/Tecnólogo/Licenciatura cursando,Prefiro não responder,Prefiro não responder,Especialista,Tecnologia,"Acima de R$10.000,01",501 - 1000,CLT
+Pará,Pessoa asiática,Pós Graduação cursando/completo,Homem,Não,Analista,Comério / Varejo,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Pará,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Serviço,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Pará,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,"Água, Luz ou Gás","R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Paraíba,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Jovem Aprendiz / Estagiário,Outros,Não Respondeu,101 - 500,Outros
+Paraíba,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",51 - 100,CLT
+Paraíba,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Paraná,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Sim,Jovem Aprendiz / Estagiário,Tecnologia,"R$1.045,00 a R$2.000,00",101 - 500,Outros
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Seguros,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Coordenador,Serviço,"R$7.000,01 a R$10.000,00",Acima de 1001,PJ
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Eng. Dados,Bancos,"R$4.000,01 a R$5.000,00",501 - 1000,CLT
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Comério / Varejo,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Sim,Analista,Comério / Varejo,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Sim,Eng. Dados,Outros,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Comério / Varejo,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Tecnologia,"R$1.045,00 a R$2.000,00",21 - 50,Outros
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Analista,Tecnologia,"Acima de R$10.000,01",101 - 500,CLT
+Paraná,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Sim,Analista,Comério / Varejo,"R$7.000,01 a R$10.000,00",501 - 1000,CLT
+Paraná,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Paraná,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Telecomunicações,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Paraná,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Sim,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",21 - 50,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Seguros,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Serviço,"R$4.000,01 a R$5.000,00",501 - 1000,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",51 - 100,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Coordenador,Educação,"Acima de R$10.000,01",Acima de 1001,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Coordenador,Seguros,"Acima de R$10.000,01",101 - 500,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Coordenador,Tecnologia,"Acima de R$10.000,01",101 - 500,PJ
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Bancos,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Homem,Sim,Analista,Outros,"R$2.000,01 a R$3.000,00",Acima de 1001,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Homem,Sim,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Educação,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+Paraná,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Serviços Diversos,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+Paraná,Pessoa indígena,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Sim,Analista,Serviços Diversos,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Paraná,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Comério / Varejo,"Acima de R$10.000,01",Acima de 1001,CLT
+Paraná,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Comério / Varejo,"R$2.000,01 a R$3.000,00",1 - 20,CLT
+Paraná,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Seguros,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Paraná,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Sim,Analista,Bancos,"R$7.000,01 a R$10.000,00",Acima de 1001,PJ
+Paraná,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,PJ
+Paraná,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,Cooperado
+Paraná,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Outros,"R$4.000,01 a R$5.000,00",51 - 100,PJ
+Paraná,Pessoa preta ou negra,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Comério / Varejo,"Acima de R$10.000,01",Acima de 1001,PJ
+Paraná,Pessoa preta ou negra,Mestrado/Doutorado cursando/completo,Prefiro não responder,Prefiro não responder,Auxiliar/Assistente,Tecnologia,"Acima de R$10.000,01",101 - 500,Não Respondeu
+Paraná,Prefiro não responder,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",51 - 100,CLT
+Pernambuco,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Pernambuco,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,"Água, Luz ou Gás","R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Pernambuco,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Pernambuco,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Transporte,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+Pernambuco,Pessoa parda,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",51 - 100,CLT
+Pernambuco,Pessoa preta ou negra,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Outros,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Seguros,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Serviços Diversos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Trainee,Tecnologia,"R$2.000,01 a R$3.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Educação,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Coordenador,Outros,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Tecnologia,"R$2.000,01 a R$3.000,00",101 - 500,Outros
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Tecnologia,"R$2.000,01 a R$3.000,00",Acima de 1001,Outros
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não Respondeu,Jovem Aprendiz / Estagiário,Serviço,"R$1.045,00 a R$2.000,00",21 - 50,Outros
+Rio de Janeiro,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Prefiro não responder,Jovem Aprendiz / Estagiário,Tecnologia,"R$2.000,01 a R$3.000,00",Acima de 1001,Outros
+Rio de Janeiro,Pessoa branca,Ensino Fundamental incompleto/Cursando,Homem,Não,Jovem Aprendiz / Estagiário,Bancos,"R$1.045,00 a R$2.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa branca,Ensino médio Completo,Homem,Não,Eng. Dados,Serviço,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa branca,Ensino médio Completo,Homem,Não,Jovem Aprendiz / Estagiário,Serviços Diversos,"R$2.000,01 a R$3.000,00",1 - 20,Autônomo
+Rio de Janeiro,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Cientista de dados,Comério / Varejo,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Transporte,"R$4.000,01 a R$5.000,00",1 - 20,PJ
+Rio de Janeiro,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Analista,Telecomunicações,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Rio de Janeiro,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",101 - 500,CLT
+Rio de Janeiro,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Trainee,Tecnologia,"R$2.000,01 a R$3.000,00",51 - 100,CLT
+Rio de Janeiro,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Educação,"R$3.000,01 a R$4.000,00",501 - 1000,CLT
+Rio de Janeiro,Pessoa branca,Pós Graduação cursando/completo,Mulher,Sim,Analista,Serviços Diversos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Seguros,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",Acima de 1001,CLT
+Rio de Janeiro,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Outros,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Sim,Jovem Aprendiz / Estagiário,Tecnologia,"R$2.000,01 a R$3.000,00",21 - 50,Outros
+Rio de Janeiro,Pessoa parda,Mestrado/Doutorado cursando/completo,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",501 - 1000,CLT
+Rio de Janeiro,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"R$4.000,01 a R$5.000,00",1 - 20,Autônomo
+Rio de Janeiro,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+Rio de Janeiro,Pessoa preta ou negra,Ensino Fundamental completo,Não Binário,Sim,Especialista,Serviço,"Acima de R$10.000,01",501 - 1000,CLT
+Rio de Janeiro,Prefiro não responder,Pós Graduação cursando/completo,Homem,Não,Analista,Telecomunicações,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Rio Grande do Norte,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Rio Grande do Sul,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Comério / Varejo,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+Rio Grande do Sul,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Serviço,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Rio Grande do Sul,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Prefiro não responder,Especialista,Tecnologia,"Acima de R$10.000,01",21 - 50,PJ
+Rio Grande do Sul,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Bancos,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Rio Grande do Sul,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Auxiliar/Assistente,Serviços Diversos,"R$2.000,01 a R$3.000,00",1 - 20,CLT
+Rio Grande do Sul,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Gerente,Tecnologia,"Acima de R$10.000,01",101 - 500,PJ
+Rio Grande do Sul,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Trainee,Outros,"R$2.000,01 a R$3.000,00",Acima de 1001,CLT
+Rio Grande do Sul,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Outros,"R$7.000,01 a R$10.000,00",501 - 1000,Outros
+Rio Grande do Sul,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+Rio Grande do Sul,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Comério / Varejo,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+Rio Grande do Sul,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Coordenador,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+Rio Grande do Sul,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Outros,"Acima de R$10.000,01",21 - 50,Cooperado
+Rio Grande do Sul,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Outros,"Acima de R$10.000,01",Acima de 1001,PJ
+Rio Grande do Sul,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Bancos,"R$3.000,01 a R$4.000,00",501 - 1000,CLT
+Rio Grande do Sul,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+Rio Grande do Sul,Prefiro não responder,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",21 - 50,PJ
+Santa Catarina,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Santa Catarina,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Serviço,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Santa Catarina,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+Santa Catarina,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",51 - 100,CLT
+Santa Catarina,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Transporte,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+Santa Catarina,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",51 - 100,PJ
+Santa Catarina,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+Santa Catarina,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",51 - 100,CLT
+Santa Catarina,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Serviço,"Acima de R$10.000,01",Acima de 1001,PJ
+Santa Catarina,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",501 - 1000,PJ
+Santa Catarina,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Comério / Varejo,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+Santa Catarina,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",1 - 20,CLT
+Santa Catarina,Pessoa parda,Pós Graduação cursando/completo,Homem,Sim,Especialista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Serviços Diversos,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Coordenador,Tecnologia,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Gerente,Comério / Varejo,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Coordenador,Serviços Diversos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",51 - 100,PJ
+São Paulo,Pessoa asiática,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Coordenador,Outros,"Acima de R$10.000,01",51 - 100,CLT
+São Paulo,Pessoa asiática,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Bancos,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Pós Graduação cursando/completo,Homem,Não,Especialista,Serviços Diversos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",101 - 500,CLT
+São Paulo,Pessoa asiática,Pós Graduação cursando/completo,Mulher,Não,Analista,Bancos,"R$5.000,01 a R$7.000,00",51 - 100,CLT
+São Paulo,Pessoa asiática,Pós Graduação cursando/completo,Mulher,Não,Analista,Serviços Diversos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa asiática,Pós Graduação cursando/completo,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Educação,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Não Respondeu,"Acima de R$10.000,01",Acima de 1001,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Serviço,"R$5.000,01 a R$7.000,00",21 - 50,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Serviços Diversos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"Acima de R$10.000,01",501 - 1000,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$1.045,00 a R$2.000,00",21 - 50,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",1 - 20,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Telecomunicações,"R$7.000,01 a R$10.000,00",Acima de 1001,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Auxiliar/Assistente,Tecnologia,"R$1.045,00 a R$2.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Consultor,Tecnologia,"R$5.000,01 a R$7.000,00",501 - 1000,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Coordenador,Bancos,"R$5.000,01 a R$7.000,00",51 - 100,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Coordenador,Outros,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,"Água, Luz ou Gás","R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Outros,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",51 - 100,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Tecnologia,"R$7.000,01 a R$10.000,00",51 - 100,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Jovem Aprendiz / Estagiário,Tecnologia,"R$1.045,00 a R$2.000,00",501 - 1000,Outros
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Sim,Analista,Outros,"Acima de R$10.000,01",21 - 50,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Comério / Varejo,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Comério / Varejo,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Outros,"R$2.000,01 a R$3.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Outros,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Outros,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Outros,"R$7.000,01 a R$10.000,00",501 - 1000,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Serviço,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",501 - 1000,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",51 - 100,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Cientista de dados,Outros,"Acima de R$10.000,01",501 - 1000,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Sim,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura completo,Não Binário,Sim,Analista,Serviço,"R$5.000,01 a R$7.000,00",501 - 1000,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Bancos,"R$2.000,01 a R$3.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Bancos,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",21 - 50,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Comério / Varejo,"R$5.000,01 a R$7.000,00",501 - 1000,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Outros,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Outros,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Outros,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Seguros,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Serviços Diversos,"R$3.000,01 a R$4.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Serviços Diversos,"R$4.000,01 a R$5.000,00",501 - 1000,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",51 - 100,PJ
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",51 - 100,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",21 - 50,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Telecomunicações,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Telecomunicações,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Auxiliar/Assistente,Outros,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Eng. Dados,Educação,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Eng. Dados,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Especialista,Comério / Varejo,"Acima de R$10.000,01",Acima de 1001,Cooperado
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Bancos,"R$1.045,00 a R$2.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Educação,"R$1.045,00 a R$2.000,00",101 - 500,Outros
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Serviços Diversos,"R$2.000,01 a R$3.000,00",21 - 50,Outros
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Jovem Aprendiz / Estagiário,Tecnologia,"R$1.045,00 a R$2.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Trainee,Outros,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Sim,Analista,Comério / Varejo,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Analista,Seguros,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Auxiliar/Assistente,Seguros,"R$1.045,00 a R$2.000,00",1 - 20,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Prefiro não responder,Jovem Aprendiz / Estagiário,Serviço,"R$1.045,00 a R$2.000,00",21 - 50,CLT
+São Paulo,Pessoa branca,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Sim,Jovem Aprendiz / Estagiário,Tecnologia,"R$1.045,00 a R$2.000,00",Acima de 1001,Outros
+São Paulo,Pessoa branca,Ensino Fundamental completo,Homem,Não,Especialista,Serviço,"Acima de R$10.000,01",1 - 20,Cooperado
+São Paulo,Pessoa branca,Ensino Fundamental incompleto/Cursando,Homem,Não,Jovem Aprendiz / Estagiário,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Ensino médio Completo,Homem,Não,Analista,Serviços Diversos,"R$2.000,01 a R$3.000,00",21 - 50,PJ
+São Paulo,Pessoa branca,Ensino médio Completo,Homem,Não,Eng. Dados,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Ensino médio Completo,Homem,Não,Tech Lead,Tecnologia,"R$5.000,01 a R$7.000,00",51 - 100,CLT
+São Paulo,Pessoa branca,Ensino médio Completo,Mulher,Não,Auxiliar/Assistente,Comério / Varejo,"R$1.045,00 a R$2.000,00",1 - 20,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Bancos,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Outros,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Coordenador,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Outros,"Acima de R$10.000,01",51 - 100,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Serviços Diversos,"R$5.000,01 a R$7.000,00",51 - 100,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",21 - 50,PJ
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",Acima de 1001,PJ
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Homem,Sim,Analista,Comério / Varejo,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Analista,Educação,"R$2.000,01 a R$3.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Coordenador,Outros,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Não,Gerente,Bancos,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Mulher,Sim,Analista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Mestrado/Doutorado cursando/completo,Pansexual,Prefiro não responder,Consultor,Tecnologia,"Acima de R$10.000,01",Acima de 1001,Outros
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Agênero,Sim,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,"Água, Luz ou Gás","R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Automotivo,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"R$1.045,00 a R$2.000,00",501 - 1000,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"R$1.045,00 a R$2.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",501 - 1000,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Comério / Varejo,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Comério / Varejo,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Comério / Varejo,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Construção e Engenharia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Outros,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Serviço,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"Acima de R$10.000,01",21 - 50,Outros
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",501 - 1000,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,PJ
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Coordenador,"Água, Luz ou Gás","Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,"Água, Luz ou Gás","Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,"Água, Luz ou Gás","R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Comério / Varejo,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Serviço,"Acima de R$10.000,01",101 - 500,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Serviço,"Acima de R$10.000,01",21 - 50,PJ
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Serviço,"R$7.000,01 a R$10.000,00",Acima de 1001,PJ
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Serviços Diversos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",101 - 500,PJ
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",501 - 1000,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Não,Especialista,Telecomunicações,"Acima de R$10.000,01",Acima de 1001,PJ
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Sim,Analista,Bancos,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Homem,Sim,Auxiliar/Assistente,Não Respondeu,"R$2.000,01 a R$3.000,00",501 - 1000,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Bancos,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Comério / Varejo,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Serviços Diversos,"R$5.000,01 a R$7.000,00",51 - 100,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Coordenador,Outros,"R$7.000,01 a R$10.000,00",51 - 100,PJ
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Especialista,Outros,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Especialista,Outros,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Especialista,Tecnologia,"Acima de R$10.000,01",1 - 20,PJ
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Não,Especialista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Sim,Analista,Bancos,"R$5.000,01 a R$7.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Sim,Analista,Comério / Varejo,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Sim,Analista,Tecnologia,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Sim,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",101 - 500,CLT
+São Paulo,Pessoa branca,Pós Graduação cursando/completo,Mulher,Sim,Especialista,Comério / Varejo,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Comério / Varejo,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Serviço,"R$2.000,01 a R$3.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Serviço,"R$5.000,01 a R$7.000,00",1 - 20,PJ
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Serviços Diversos,"R$5.000,01 a R$7.000,00",21 - 50,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Especialista,Serviço,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Gerente,Tecnologia,"Acima de R$10.000,01",101 - 500,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Comério / Varejo,"R$3.000,01 a R$4.000,00",21 - 50,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Educação,"R$3.000,01 a R$4.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Especialista,Comério / Varejo,"Acima de R$10.000,01",51 - 100,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Analista,Seguros,"R$3.000,01 a R$4.000,00",501 - 1000,CLT
+São Paulo,Pessoa parda,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Sim,Analista,Tecnologia,"R$2.000,01 a R$3.000,00",101 - 500,CLT
+São Paulo,Pessoa parda,Ensino médio Completo,Homem,Não,Analista,Educação,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+São Paulo,Pessoa parda,Ensino médio Completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",101 - 500,PJ
+São Paulo,Pessoa parda,Mestrado/Doutorado cursando/completo,Homem,Não,Consultor,Outros,"Acima de R$10.000,01",1 - 20,PJ
+São Paulo,Pessoa parda,Mestrado/Doutorado cursando/completo,Homem,Não,Diretor,Tecnologia,"Acima de R$10.000,01",1 - 20,CLT
+São Paulo,Pessoa parda,Mestrado/Doutorado cursando/completo,Homem,Não,Especialista,Serviço,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa parda,Mestrado/Doutorado cursando/completo,Homem,Sim,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",501 - 1000,CLT
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Comério / Varejo,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Analista,Outros,"R$3.000,01 a R$4.000,00",1 - 20,CLT
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Cientista de dados,Tecnologia,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Coordenador,Tecnologia,"Acima de R$10.000,01",Acima de 1001,PJ
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,DBA,Outros,"Acima de R$10.000,01",51 - 100,Cooperado
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Diretor,Tecnologia,"Acima de R$10.000,01",21 - 50,PJ
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Especialista,"Água, Luz ou Gás","Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Especialista,Outros,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Especialista,Tecnologia,"Acima de R$10.000,01",101 - 500,PJ
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Homem,Não,Especialista,Telecomunicações,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Gerente,Bancos,"Acima de R$10.000,01",501 - 1000,CLT
+São Paulo,Pessoa parda,Pós Graduação cursando/completo,Mulher,Sim,Analista,Educação,"R$4.000,01 a R$5.000,00",Acima de 1001,CLT
+São Paulo,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$5.000,01 a R$7.000,00",Acima de 1001,CLT
+São Paulo,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+São Paulo,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Homem,Sim,Especialista,Tecnologia,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura completo,Mulher,Sim,Auxiliar/Assistente,Bancos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Serviços Diversos,"R$4.000,01 a R$5.000,00",1 - 20,PJ
+São Paulo,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Sim,Analista,Bancos,"R$4.000,01 a R$5.000,00",501 - 1000,CLT
+São Paulo,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Sim,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Não,Jovem Aprendiz / Estagiário,Tecnologia,"R$1.045,00 a R$2.000,00",Acima de 1001,Outros
+São Paulo,Pessoa preta ou negra,Ensino médio Completo,Homem,Não,Especialista,Serviços Diversos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa preta ou negra,Mestrado/Doutorado cursando/completo,Homem,Não,Analista,Outros,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa preta ou negra,Pós Graduação cursando/completo,Homem,Não,Analista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa preta ou negra,Pós Graduação cursando/completo,Homem,Não,Analista,Tecnologia,"R$7.000,01 a R$10.000,00",101 - 500,CLT
+São Paulo,Pessoa preta ou negra,Pós Graduação cursando/completo,Mulher,Não,Analista,Bancos,"Acima de R$10.000,01",Acima de 1001,CLT
+São Paulo,Pessoa preta ou negra,Pós Graduação cursando/completo,Mulher,Não,Analista,Bancos,"R$7.000,01 a R$10.000,00",Acima de 1001,CLT
+São Paulo,Prefiro não responder,Bacharelado/Tecnólogo/Licenciatura cursando,Mulher,Sim,Jovem Aprendiz / Estagiário,Outros,"R$1.045,00 a R$2.000,00",101 - 500,Outros
+Sergipe,Pessoa parda,Pós Graduação cursando/completo,Mulher,Não,Analista,Outros,"R$2.000,01 a R$3.000,00",101 - 500,CLT
+Sergipe,Pessoa preta ou negra,Bacharelado/Tecnólogo/Licenciatura cursando,Homem,Não,Analista,Comério / Varejo,"R$2.000,01 a R$3.000,00",Acima de 1001,CLT
